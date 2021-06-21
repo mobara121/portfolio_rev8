@@ -12,7 +12,7 @@ import emailjs from 'emailjs-com';
 const useStyles = makeStyles({
     input: {
         margin: '0 1vw 3vh 1vw ',
-        height: '4vh',
+        height: '5vh',
         paddingLeft: '1vw',
         border: '2px solid rgb(255, 255, 255)',
         borderRadius: '2px',
@@ -41,13 +41,13 @@ const useStyles = makeStyles({
         '&:hover':{ color: '#BCDBDB',fill:'#c398ac', fontSize:'2.1rem'}
     },
     sendBtn:{
-        width:'35px', margin:'0 auto', backgroundColor:'#c398ac', border:'1px solid #c398ac', borderRadius:'2px', padding:"0 1px", 
+        width:'35px', margin:'0 auto', backgroundColor:'#c398ac', border:'1px solid #c398ac', borderRadius:'2px', padding:"0 1px", marginTop:'2vh', 
         '&:hover':{
             backgroundColor:'#fff', border:'1px solid #fff', borderRadius:'2px',boxShadow:'0px 12px 18px -6px rgba(0, 0, 0, 0.3)'
         }
     },
     maiIcon:{
-        // height:'1em',
+        
         fill:"#fff",
         '&:hover':{fill:"#c398ac"}
     }
