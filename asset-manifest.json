@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/portfolio_rev8/static/css/main.fb4e2b67.chunk.css",
+    "main.js": "/portfolio_rev8/static/js/main.6b674432.chunk.js",
+    "main.js.map": "/portfolio_rev8/static/js/main.6b674432.chunk.js.map",
+    "runtime-main.js": "/portfolio_rev8/static/js/runtime-main.1380885b.js",
+    "runtime-main.js.map": "/portfolio_rev8/static/js/runtime-main.1380885b.js.map",
+    "static/css/2.ae9e5f60.chunk.css": "/portfolio_rev8/static/css/2.ae9e5f60.chunk.css",
+    "static/js/2.f19a4d96.chunk.js": "/portfolio_rev8/static/js/2.f19a4d96.chunk.js",
+    "static/js/2.f19a4d96.chunk.js.map": "/portfolio_rev8/static/js/2.f19a4d96.chunk.js.map",
+    "index.html": "/portfolio_rev8/index.html",
+    "static/css/2.ae9e5f60.chunk.css.map": "/portfolio_rev8/static/css/2.ae9e5f60.chunk.css.map",
+    "static/css/main.fb4e2b67.chunk.css.map": "/portfolio_rev8/static/css/main.fb4e2b67.chunk.css.map",
+    "static/js/2.f19a4d96.chunk.js.LICENSE.txt": "/portfolio_rev8/static/js/2.f19a4d96.chunk.js.LICENSE.txt",
+    "static/media/ChatApp.7a78076b.png": "/portfolio_rev8/static/media/ChatApp.7a78076b.png",
+    "static/media/Gurunavi.a1c7f3cc.png": "/portfolio_rev8/static/media/Gurunavi.a1c7f3cc.png",
+    "static/media/IndyEvent.5671c702.png": "/portfolio_rev8/static/media/IndyEvent.5671c702.png",
+    "static/media/Inventory@home.3f4effc4.PNG": "/portfolio_rev8/static/media/Inventory@home.3f4effc4.PNG",
+    "static/media/Real_Estate_Agent.e12839d6.png": "/portfolio_rev8/static/media/Real_Estate_Agent.e12839d6.png",
+    "static/media/bakery.09502929.png": "/portfolio_rev8/static/media/bakery.09502929.png",
+    "static/media/calorywatcher.e9a2118a.png": "/portfolio_rev8/static/media/calorywatcher.e9a2118a.png",
+    "static/media/castle_nagoya_6246.6bceba8e.png": "/portfolio_rev8/static/media/castle_nagoya_6246.6bceba8e.png",
+    "static/media/nyt.db07fbea.png": "/portfolio_rev8/static/media/nyt.db07fbea.png",
+    "static/media/today_s_menu.d8be7a2b.png": "/portfolio_rev8/static/media/today_s_menu.d8be7a2b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1380885b.js",
+    "static/css/2.ae9e5f60.chunk.css",
+    "static/js/2.f19a4d96.chunk.js",
+    "static/css/main.fb4e2b67.chunk.css",
+    "static/js/main.6b674432.chunk.js"
+  ]
+}
